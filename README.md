@@ -1,6 +1,6 @@
 # WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Himavanthm**
+Submitted by: **Himavanth**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='<!-- ADD YOUR GIF OR MP4 URL HERE -->' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/lfFUGtK.gif
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap (macOS) / ScreenToGif (Windows) / Peek (Linux)  
